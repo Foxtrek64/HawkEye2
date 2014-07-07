@@ -1,6 +1,6 @@
 Description
 
-HawkEye reloaded is a continuation of the beloved former "Hawkeye", which is now completely inactive. It gives you the ability to log changes, search through them, roll edits back and much, much more.
+HawkEye 2 is an update of HawkEy Reloaded's code for minecraft 1.7+. A need was seen when Minecraft depricated both block IDs and Data values.
 
 features
 
@@ -37,6 +37,8 @@ Requirements
 Latest RB of bukkit
 MySQL database (Your host should provide you with one)
 (optional) WebServer (if you want to run the Web Interface)
+
+
 ToDo List
 
 WorldEdit logging
@@ -47,30 +49,4 @@ All the donations go directly to the former author oliverw92 Click here to donat
 
 Source
 
-GitHub: https://github.com/bob7l/HawkReloaded
-
-DevBuilds: 1.0.6.2.3.1 DEV
-
-(Added HeroChat support)
-
-Plugin not working correctly?
-
-Here you can post your issue/error code or just simply suggest something!
-
-http://dev.bukkit.org/server-mods/hawkeye-reload/pages/error/problems/
-
-How to import my logblock logs?
-
-Very easily, oliverw92 has created some very easy to use import scripts. Find out how here: Importing scripts
-
-How the filter works
-
-It's very simple to filter out unwanted items from the log. Things like sand, or grass are some things you might not want to be logged, this is how you filter them out!
-
-block-filter:
-
-- GRASS
-
-- STONE
-
-List of blocks/items: http://aoc.curseforge.com/paste/5395/
+GitHub: https://github.com/Foxtrek64/HawkEye2
