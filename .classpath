@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
-	<classpathentry including="uk.co.oliwali.HawkEye*" kind="src" path="src"/>
+	<classpathentry including="com.github.foxtrek_64.HawkEye2*" kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="lib" path="C:/Users/Foxtrek_64/Downloads/MC Mods/HawkEye/bukkit-1.6.4-R2.0.jar">
 		<attributes>
