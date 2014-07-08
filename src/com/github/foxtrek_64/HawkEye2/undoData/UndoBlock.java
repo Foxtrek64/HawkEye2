@@ -1,8 +1,8 @@
-package uk.co.oliwali.HawkEye.undoData;
+package com.github.foxtrek_64.HawkEye2.undoData;
 
 import org.bukkit.block.BlockState;
 
-import uk.co.oliwali.HawkEye.blocks.HawkBlockType;
+import com.github.foxtrek_64.HawkEye2.blocks.HawkBlockType;
 
 public class UndoBlock {
 

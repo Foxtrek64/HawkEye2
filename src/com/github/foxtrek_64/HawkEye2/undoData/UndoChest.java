@@ -1,4 +1,4 @@
-package uk.co.oliwali.HawkEye.undoData;
+package com.github.foxtrek_64.HawkEye2.undoData;
 
 import org.bukkit.Material;
 import org.bukkit.block.Block;
@@ -9,7 +9,7 @@ import org.bukkit.inventory.Inventory;
 import org.bukkit.inventory.InventoryHolder;
 import org.bukkit.inventory.ItemStack;
 
-import uk.co.oliwali.HawkEye.util.BlockUtil;
+import com.github.foxtrek_64.HawkEye2.util.BlockUtil;
 
 public class UndoChest extends UndoBlock {
 

@@ -1,11 +1,11 @@
-package uk.co.oliwali.HawkEye.commands;
+package com.github.foxtrek_64.HawkEye2.commands;
 
 import java.util.ArrayList;
 import java.util.List;
 
-import uk.co.oliwali.HawkEye.DataType;
-import uk.co.oliwali.HawkEye.database.DataManager;
-import uk.co.oliwali.HawkEye.util.Util;
+import com.github.foxtrek_64.HawkEye2.DataType;
+import com.github.foxtrek_64.HawkEye2.database.DataManager;
+import com.github.foxtrek_64.HawkEye2.util.Util;
 
 public class InfoCommand extends BaseCommand {
 

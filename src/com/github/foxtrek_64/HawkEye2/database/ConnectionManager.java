@@ -1,4 +1,4 @@
-package uk.co.oliwali.HawkEye.database;
+package com.github.foxtrek_64.HawkEye2.database;
 
 import java.io.Closeable;
 import java.sql.Connection;
@@ -7,8 +7,8 @@ import java.sql.SQLException;
 import java.util.Enumeration;
 import java.util.Vector;
 
-import uk.co.oliwali.HawkEye.util.Config;
-import uk.co.oliwali.HawkEye.util.Util;
+import com.github.foxtrek_64.HawkEye2.util.Config;
+import com.github.foxtrek_64.HawkEye2.util.Util;
 
 /**
  * Manages the MySQL connection pool.

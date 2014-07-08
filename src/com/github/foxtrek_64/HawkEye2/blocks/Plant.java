@@ -5,7 +5,7 @@ import org.bukkit.block.Block;
 import org.bukkit.block.BlockFace;
 import org.bukkit.entity.Player;
 
-import uk.co.oliwali.HawkEye.DataType;
+import com.github.foxtrek_64.HawkEye2.DataType;
 
 public class Plant implements HawkBlock {
 

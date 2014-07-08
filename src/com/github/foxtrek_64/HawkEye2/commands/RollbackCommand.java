@@ -1,15 +1,15 @@
-package uk.co.oliwali.HawkEye.commands;
+package com.github.foxtrek_64.HawkEye2.commands;
 
 import java.util.ArrayList;
 import java.util.List;
 
-import uk.co.oliwali.HawkEye.DataType;
-import uk.co.oliwali.HawkEye.Rollback.RollbackType;
-import uk.co.oliwali.HawkEye.SearchParser;
-import uk.co.oliwali.HawkEye.callbacks.RollbackCallback;
-import uk.co.oliwali.HawkEye.database.SearchQuery;
-import uk.co.oliwali.HawkEye.database.SearchQuery.SearchDir;
-import uk.co.oliwali.HawkEye.util.Util;
+import com.github.foxtrek_64.HawkEye2.DataType;
+import com.github.foxtrek_64.HawkEye2.Rollback.RollbackType;
+import com.github.foxtrek_64.HawkEye2.SearchParser;
+import com.github.foxtrek_64.HawkEye2.callbacks.RollbackCallback;
+import com.github.foxtrek_64.HawkEye2.database.SearchQuery;
+import com.github.foxtrek_64.HawkEye2.database.SearchQuery.SearchDir;
+import com.github.foxtrek_64.HawkEye2.util.Util;
 
 /**
  * Rolls back actions according to the player's specified input.

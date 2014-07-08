@@ -1,4 +1,4 @@
-package uk.co.oliwali.HawkEye;
+package com.github.foxtrek_64.HawkEye2;
 
 import java.util.Iterator;
 
@@ -6,11 +6,11 @@ import org.bukkit.Bukkit;
 import org.bukkit.block.BlockState;
 import org.bukkit.entity.Player;
 
-import uk.co.oliwali.HawkEye.Rollback.RollbackType;
-import uk.co.oliwali.HawkEye.database.DataManager;
-import uk.co.oliwali.HawkEye.entry.DataEntry;
-import uk.co.oliwali.HawkEye.util.Config;
-import uk.co.oliwali.HawkEye.util.Util;
+import com.github.foxtrek_64.HawkEye2.Rollback.RollbackType;
+import com.github.foxtrek_64.HawkEye2.database.DataManager;
+import com.github.foxtrek_64.HawkEye2.entry.DataEntry;
+import com.github.foxtrek_64.HawkEye2.util.Config;
+import com.github.foxtrek_64.HawkEye2.util.Util;
 
 /**
  * Runnable class for reversing a {@link Rollback}.

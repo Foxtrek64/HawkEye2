@@ -1,4 +1,4 @@
-package uk.co.oliwali.HawkEye;
+package com.github.foxtrek_64.HawkEye2;
 
 import java.util.ArrayList;
 import java.util.Collections;
@@ -11,10 +11,10 @@ import org.bukkit.World;
 import org.bukkit.block.Block;
 import org.bukkit.block.BlockState;
 import org.bukkit.entity.Player;
-import uk.co.oliwali.HawkEye.database.DataManager;
-import uk.co.oliwali.HawkEye.entry.DataEntry;
-import uk.co.oliwali.HawkEye.util.Config;
-import uk.co.oliwali.HawkEye.util.Util;
+import com.github.foxtrek_64.HawkEye2.database.DataManager;
+import com.github.foxtrek_64.HawkEye2.entry.DataEntry;
+import com.github.foxtrek_64.HawkEye2.util.Config;
+import com.github.foxtrek_64.HawkEye2.util.Util;
 
 /**
  * Runnable class for performing a data rollback.

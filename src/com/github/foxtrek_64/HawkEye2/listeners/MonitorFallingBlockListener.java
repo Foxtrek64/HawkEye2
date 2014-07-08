@@ -1,4 +1,4 @@
-package uk.co.oliwali.HawkEye.listeners;
+package com.github.foxtrek_64.HawkEye2.listeners;
 
 import java.util.HashMap;
 import org.bukkit.Location;
@@ -10,11 +10,11 @@ import org.bukkit.entity.FallingBlock;
 import org.bukkit.event.block.BlockPlaceEvent;
 import org.bukkit.event.entity.EntityChangeBlockEvent;
 
-import uk.co.oliwali.HawkEye.DataType;
-import uk.co.oliwali.HawkEye.HawkEvent;
-import uk.co.oliwali.HawkEye.HawkEye;
-import uk.co.oliwali.HawkEye.database.DataManager;
-import uk.co.oliwali.HawkEye.entry.BlockChangeEntry;
+import com.github.foxtrek_64.HawkEye2.DataType;
+import com.github.foxtrek_64.HawkEye2.HawkEvent;
+import com.github.foxtrek_64.HawkEye2.HawkEye;
+import com.github.foxtrek_64.HawkEye2.database.DataManager;
+import com.github.foxtrek_64.HawkEye2.entry.BlockChangeEntry;
 
 /**
  * FallingBlockEntity listener class for HawkEye

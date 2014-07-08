@@ -1,4 +1,4 @@
-package uk.co.oliwali.HawkEye.database;
+package com.github.foxtrek_64.HawkEye2.database;
 
 import java.sql.DatabaseMetaData;
 import java.sql.PreparedStatement;
@@ -12,11 +12,11 @@ import java.util.concurrent.LinkedBlockingQueue;
 
 import org.bukkit.scheduler.BukkitTask;
 
-import uk.co.oliwali.HawkEye.DataType;
-import uk.co.oliwali.HawkEye.HawkEye;
-import uk.co.oliwali.HawkEye.entry.DataEntry;
-import uk.co.oliwali.HawkEye.util.Config;
-import uk.co.oliwali.HawkEye.util.Util;
+import com.github.foxtrek_64.HawkEye2.DataType;
+import com.github.foxtrek_64.HawkEye2.HawkEye;
+import com.github.foxtrek_64.HawkEye2.entry.DataEntry;
+import com.github.foxtrek_64.HawkEye2.util.Config;
+import com.github.foxtrek_64.HawkEye2.util.Util;
 
 /**
  * Handler for everything to do with the database.

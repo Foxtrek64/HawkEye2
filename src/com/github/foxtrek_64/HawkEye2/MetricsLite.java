@@ -26,7 +26,7 @@
  * either expressed or implied, of anybody else.
  */
 
-package uk.co.oliwali.HawkEye;
+package com.github.foxtrek_64.HawkEye2;
 
 import org.bukkit.Bukkit;
 import org.bukkit.configuration.InvalidConfigurationException;

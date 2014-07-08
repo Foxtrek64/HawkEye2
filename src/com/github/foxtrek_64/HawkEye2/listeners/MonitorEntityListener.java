@@ -1,4 +1,4 @@
-package uk.co.oliwali.HawkEye.listeners;
+package com.github.foxtrek_64.HawkEye2.listeners;
 
 import java.util.Arrays;
 
@@ -22,19 +22,19 @@ import org.bukkit.event.hanging.HangingBreakEvent.RemoveCause;
 import org.bukkit.event.hanging.HangingPlaceEvent;
 import org.bukkit.inventory.ItemStack;
 
-import uk.co.oliwali.HawkEye.DataType;
-import uk.co.oliwali.HawkEye.HawkEvent;
-import uk.co.oliwali.HawkEye.HawkEye;
-import uk.co.oliwali.HawkEye.database.DataManager;
-import uk.co.oliwali.HawkEye.entry.BlockChangeEntry;
-import uk.co.oliwali.HawkEye.entry.BlockEntry;
-import uk.co.oliwali.HawkEye.entry.DataEntry;
-import uk.co.oliwali.HawkEye.entry.EntityEntry;
-import uk.co.oliwali.HawkEye.entry.HangingEntry;
-import uk.co.oliwali.HawkEye.entry.SignEntry;
-import uk.co.oliwali.HawkEye.util.Config;
-import uk.co.oliwali.HawkEye.util.EntityUtil;
-import uk.co.oliwali.HawkEye.util.Util;
+import com.github.foxtrek_64.HawkEye2.DataType;
+import com.github.foxtrek_64.HawkEye2.HawkEvent;
+import com.github.foxtrek_64.HawkEye2.HawkEye;
+import com.github.foxtrek_64.HawkEye2.database.DataManager;
+import com.github.foxtrek_64.HawkEye2.entry.BlockChangeEntry;
+import com.github.foxtrek_64.HawkEye2.entry.BlockEntry;
+import com.github.foxtrek_64.HawkEye2.entry.DataEntry;
+import com.github.foxtrek_64.HawkEye2.entry.EntityEntry;
+import com.github.foxtrek_64.HawkEye2.entry.HangingEntry;
+import com.github.foxtrek_64.HawkEye2.entry.SignEntry;
+import com.github.foxtrek_64.HawkEye2.util.Config;
+import com.github.foxtrek_64.HawkEye2.util.EntityUtil;
+import com.github.foxtrek_64.HawkEye2.util.Util;
 
 /**
  * Entity listener class for HawkEye

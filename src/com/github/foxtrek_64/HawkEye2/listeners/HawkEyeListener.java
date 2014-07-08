@@ -1,4 +1,4 @@
-package uk.co.oliwali.HawkEye.listeners;
+package com.github.foxtrek_64.HawkEye2.listeners;
 
 import java.lang.reflect.Method;
 
@@ -8,11 +8,11 @@ import org.bukkit.event.Listener;
 import org.bukkit.plugin.EventExecutor;
 import org.bukkit.plugin.PluginManager;
 
-import uk.co.oliwali.HawkEye.DataType;
-import uk.co.oliwali.HawkEye.HawkEvent;
-import uk.co.oliwali.HawkEye.HawkEye;
-import uk.co.oliwali.HawkEye.util.Util;
-import uk.co.oliwali.HawkEye.util.Util.DebugLevel;
+import com.github.foxtrek_64.HawkEye2.DataType;
+import com.github.foxtrek_64.HawkEye2.HawkEvent;
+import com.github.foxtrek_64.HawkEye2.HawkEye;
+import com.github.foxtrek_64.HawkEye2.util.Util;
+import com.github.foxtrek_64.HawkEye2.util.Util.DebugLevel;
 
 public abstract class HawkEyeListener implements Listener {
 

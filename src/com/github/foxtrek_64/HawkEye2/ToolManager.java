@@ -1,4 +1,4 @@
-package uk.co.oliwali.HawkEye;
+package com.github.foxtrek_64.HawkEye2;
 
 import java.util.Arrays;
 import java.util.List;
@@ -12,12 +12,12 @@ import org.bukkit.inventory.Inventory;
 import org.bukkit.inventory.ItemStack;
 import org.bukkit.util.Vector;
 
-import uk.co.oliwali.HawkEye.callbacks.SearchCallback;
-import uk.co.oliwali.HawkEye.database.SearchQuery;
-import uk.co.oliwali.HawkEye.database.SearchQuery.SearchDir;
-import uk.co.oliwali.HawkEye.util.BlockUtil;
-import uk.co.oliwali.HawkEye.util.Config;
-import uk.co.oliwali.HawkEye.util.Util;
+import com.github.foxtrek_64.HawkEye2.callbacks.SearchCallback;
+import com.github.foxtrek_64.HawkEye2.database.SearchQuery;
+import com.github.foxtrek_64.HawkEye2.database.SearchQuery.SearchDir;
+import com.github.foxtrek_64.HawkEye2.util.BlockUtil;
+import com.github.foxtrek_64.HawkEye2.util.Config;
+import com.github.foxtrek_64.HawkEye2.util.Util;
 
 /**
  * Contains methods for controlling the HawkEye tool

@@ -1,14 +1,14 @@
-package uk.co.oliwali.HawkEye.WorldEdit;
+package com.github.foxtrek_64.HawkEye2.WorldEdit;
 
 import org.bukkit.Location;
 import org.bukkit.World;
 import org.bukkit.block.BlockState;
 
-import uk.co.oliwali.HawkEye.DataType;
-import uk.co.oliwali.HawkEye.database.DataManager;
-import uk.co.oliwali.HawkEye.entry.BlockChangeEntry;
-import uk.co.oliwali.HawkEye.entry.BlockEntry;
-import uk.co.oliwali.HawkEye.entry.SignEntry;
+import com.github.foxtrek_64.HawkEye2.DataType;
+import com.github.foxtrek_64.HawkEye2.database.DataManager;
+import com.github.foxtrek_64.HawkEye2.entry.BlockChangeEntry;
+import com.github.foxtrek_64.HawkEye2.entry.BlockEntry;
+import com.github.foxtrek_64.HawkEye2.entry.SignEntry;
 
 import com.sk89q.worldedit.EditSession;
 import com.sk89q.worldedit.LocalPlayer;

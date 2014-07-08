@@ -1,4 +1,4 @@
-package uk.co.oliwali.HawkEye.util;
+package com.github.foxtrek_64.HawkEye2.util;
 
 import org.bukkit.Art;
 import org.bukkit.Location;
@@ -13,8 +13,8 @@ import org.bukkit.entity.Painting;
 import org.bukkit.entity.Player;
 import org.bukkit.inventory.ItemStack;
 
-import uk.co.oliwali.HawkEye.DataType;
-import uk.co.oliwali.HawkEye.entry.HangingEntry;
+import com.github.foxtrek_64.HawkEye2.DataType;
+import com.github.foxtrek_64.HawkEye2.entry.HangingEntry;
 
 public class EntityUtil {
 

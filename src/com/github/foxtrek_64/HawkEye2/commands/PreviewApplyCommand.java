@@ -1,8 +1,8 @@
-package uk.co.oliwali.HawkEye.commands;
+package com.github.foxtrek_64.HawkEye2.commands;
 
-import uk.co.oliwali.HawkEye.Rollback;
-import uk.co.oliwali.HawkEye.Rollback.RollbackType;
-import uk.co.oliwali.HawkEye.util.Util;
+import com.github.foxtrek_64.HawkEye2.Rollback;
+import com.github.foxtrek_64.HawkEye2.Rollback.RollbackType;
+import com.github.foxtrek_64.HawkEye2.util.Util;
 
 /**
  * Applies a local rollback to the world

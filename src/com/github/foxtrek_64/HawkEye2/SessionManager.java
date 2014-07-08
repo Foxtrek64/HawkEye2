@@ -1,4 +1,4 @@
-package uk.co.oliwali.HawkEye;
+package com.github.foxtrek_64.HawkEye2;
 
 import java.util.HashMap;
 

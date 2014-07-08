@@ -1,12 +1,12 @@
-package uk.co.oliwali.HawkEye.commands;
+package com.github.foxtrek_64.HawkEye2.commands;
 
 import org.bukkit.Location;
 import org.bukkit.World;
 
-import uk.co.oliwali.HawkEye.HawkEye;
-import uk.co.oliwali.HawkEye.database.DataManager;
-import uk.co.oliwali.HawkEye.entry.DataEntry;
-import uk.co.oliwali.HawkEye.util.Util;
+import com.github.foxtrek_64.HawkEye2.HawkEye;
+import com.github.foxtrek_64.HawkEye2.database.DataManager;
+import com.github.foxtrek_64.HawkEye2.entry.DataEntry;
+import com.github.foxtrek_64.HawkEye2.util.Util;
 
 /**
  * Teleports player to location of specified data entry

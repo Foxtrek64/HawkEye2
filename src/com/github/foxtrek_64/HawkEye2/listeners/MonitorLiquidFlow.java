@@ -1,4 +1,4 @@
-package uk.co.oliwali.HawkEye.listeners;
+package com.github.foxtrek_64.HawkEye2.listeners;
 
 import java.util.Arrays;
 import java.util.HashMap;
@@ -13,11 +13,11 @@ import org.bukkit.event.block.BlockFromToEvent;
 import org.bukkit.event.player.PlayerBucketEmptyEvent;
 import org.bukkit.material.MaterialData;
 
-import uk.co.oliwali.HawkEye.DataType;
-import uk.co.oliwali.HawkEye.HawkEvent;
-import uk.co.oliwali.HawkEye.HawkEye;
-import uk.co.oliwali.HawkEye.database.DataManager;
-import uk.co.oliwali.HawkEye.entry.BlockChangeEntry;
+import com.github.foxtrek_64.HawkEye2.DataType;
+import com.github.foxtrek_64.HawkEye2.HawkEvent;
+import com.github.foxtrek_64.HawkEye2.HawkEye;
+import com.github.foxtrek_64.HawkEye2.database.DataManager;
+import com.github.foxtrek_64.HawkEye2.entry.BlockChangeEntry;
 
 public class MonitorLiquidFlow extends HawkEyeListener {
 

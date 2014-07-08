@@ -1,4 +1,4 @@
-package uk.co.oliwali.HawkEye.util;
+package com.github.foxtrek_64.HawkEye2.util;
 
 import java.util.HashMap;
 import java.util.Map;
@@ -14,8 +14,8 @@ import org.bukkit.enchantments.Enchantment;
 import org.bukkit.inventory.InventoryHolder;
 import org.bukkit.inventory.ItemStack;
 
-import uk.co.oliwali.HawkEye.database.DataManager;
-import uk.co.oliwali.HawkEye.entry.ContainerEntry;
+import com.github.foxtrek_64.HawkEye2.database.DataManager;
+import com.github.foxtrek_64.HawkEye2.entry.ContainerEntry;
 
 public class InventoryUtil {
 

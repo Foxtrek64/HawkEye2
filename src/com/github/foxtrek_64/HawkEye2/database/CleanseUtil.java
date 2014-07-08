@@ -1,4 +1,4 @@
-package uk.co.oliwali.HawkEye.database;
+package com.github.foxtrek_64.HawkEye2.database;
 
 import java.sql.PreparedStatement;
 import java.sql.SQLException;
@@ -9,10 +9,10 @@ import java.util.Calendar;
 import java.util.List;
 import org.bukkit.Bukkit;
 
-import uk.co.oliwali.HawkEye.DataType;
-import uk.co.oliwali.HawkEye.HawkEye;
-import uk.co.oliwali.HawkEye.util.Config;
-import uk.co.oliwali.HawkEye.util.Util;
+import com.github.foxtrek_64.HawkEye2.DataType;
+import com.github.foxtrek_64.HawkEye2.HawkEye;
+import com.github.foxtrek_64.HawkEye2.util.Config;
+import com.github.foxtrek_64.HawkEye2.util.Util;
 
 /**
  * DataBase cleansing utility.

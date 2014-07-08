@@ -1,4 +1,4 @@
-package uk.co.oliwali.HawkEye.util;
+package com.github.foxtrek_64.HawkEye2.util;
 
 import org.bukkit.Material;
 import org.bukkit.block.Block;
@@ -8,7 +8,7 @@ import org.bukkit.inventory.ItemStack;
 import org.bukkit.material.Attachable;
 import org.bukkit.material.MaterialData;
 
-import uk.co.oliwali.HawkEye.blocks.HawkBlockType;
+import com.github.foxtrek_64.HawkEye2.blocks.HawkBlockType;
 
 /**
  * Contains utilities for manipulating blocks without losing data

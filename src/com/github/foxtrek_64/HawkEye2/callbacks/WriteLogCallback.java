@@ -1,11 +1,11 @@
-package uk.co.oliwali.HawkEye.callbacks;
+package com.github.foxtrek_64.HawkEye2.callbacks;
 
 import org.bukkit.command.CommandSender;
 
-import uk.co.oliwali.HawkEye.LogManager;
-import uk.co.oliwali.HawkEye.PlayerSession;
-import uk.co.oliwali.HawkEye.database.SearchQuery.SearchError;
-import uk.co.oliwali.HawkEye.util.Util;
+import com.github.foxtrek_64.HawkEye2.LogManager;
+import com.github.foxtrek_64.HawkEye2.PlayerSession;
+import com.github.foxtrek_64.HawkEye2.database.SearchQuery.SearchError;
+import com.github.foxtrek_64.HawkEye2.util.Util;
 
 public class WriteLogCallback extends BaseCallback {
 

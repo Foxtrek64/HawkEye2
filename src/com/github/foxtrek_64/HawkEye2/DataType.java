@@ -1,4 +1,4 @@
-package uk.co.oliwali.HawkEye;
+package com.github.foxtrek_64.HawkEye2;
 
 import java.lang.reflect.Constructor;
 import java.sql.Timestamp;
@@ -6,14 +6,14 @@ import java.util.EnumSet;
 import java.util.HashMap;
 import java.util.Map;
 
-import uk.co.oliwali.HawkEye.entry.BlockChangeEntry;
-import uk.co.oliwali.HawkEye.entry.BlockEntry;
-import uk.co.oliwali.HawkEye.entry.ContainerEntry;
-import uk.co.oliwali.HawkEye.entry.DataEntry;
-import uk.co.oliwali.HawkEye.entry.EntityEntry;
-import uk.co.oliwali.HawkEye.entry.HangingEntry;
-import uk.co.oliwali.HawkEye.entry.SignEntry;
-import uk.co.oliwali.HawkEye.entry.SimpleRollbackEntry;
+import com.github.foxtrek_64.HawkEye2.entry.BlockChangeEntry;
+import com.github.foxtrek_64.HawkEye2.entry.BlockEntry;
+import com.github.foxtrek_64.HawkEye2.entry.ContainerEntry;
+import com.github.foxtrek_64.HawkEye2.entry.DataEntry;
+import com.github.foxtrek_64.HawkEye2.entry.EntityEntry;
+import com.github.foxtrek_64.HawkEye2.entry.HangingEntry;
+import com.github.foxtrek_64.HawkEye2.entry.SignEntry;
+import com.github.foxtrek_64.HawkEye2.entry.SimpleRollbackEntry;
 
 /**
  * Enumeration class representing all the different actions that HawkEye can handle

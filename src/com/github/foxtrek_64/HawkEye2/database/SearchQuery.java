@@ -1,4 +1,4 @@
-package uk.co.oliwali.HawkEye.database;
+package com.github.foxtrek_64.HawkEye2.database;
 
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
@@ -8,13 +8,13 @@ import java.util.LinkedList;
 import java.util.List;
 import java.util.Map;
 
-import uk.co.oliwali.HawkEye.DataType;
-import uk.co.oliwali.HawkEye.SearchParser;
-import uk.co.oliwali.HawkEye.callbacks.BaseCallback;
-import uk.co.oliwali.HawkEye.callbacks.DeleteCallback;
-import uk.co.oliwali.HawkEye.entry.DataEntry;
-import uk.co.oliwali.HawkEye.util.Config;
-import uk.co.oliwali.HawkEye.util.Util;
+import com.github.foxtrek_64.HawkEye2.DataType;
+import com.github.foxtrek_64.HawkEye2.SearchParser;
+import com.github.foxtrek_64.HawkEye2.callbacks.BaseCallback;
+import com.github.foxtrek_64.HawkEye2.callbacks.DeleteCallback;
+import com.github.foxtrek_64.HawkEye2.entry.DataEntry;
+import com.github.foxtrek_64.HawkEye2.util.Config;
+import com.github.foxtrek_64.HawkEye2.util.Util;
 
 /**
  * Threadable class for performing a search query

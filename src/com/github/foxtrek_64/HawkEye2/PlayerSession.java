@@ -1,12 +1,12 @@
-package uk.co.oliwali.HawkEye;
+package com.github.foxtrek_64.HawkEye2;
 
 import java.util.List;
 
 import org.bukkit.command.CommandSender;
 
-import uk.co.oliwali.HawkEye.Rollback.RollbackType;
-import uk.co.oliwali.HawkEye.entry.DataEntry;
-import uk.co.oliwali.HawkEye.util.Config;
+import com.github.foxtrek_64.HawkEye2.Rollback.RollbackType;
+import com.github.foxtrek_64.HawkEye2.entry.DataEntry;
+import com.github.foxtrek_64.HawkEye2.util.Config;
 
 /**
  * Stores data specific to each player on the server.

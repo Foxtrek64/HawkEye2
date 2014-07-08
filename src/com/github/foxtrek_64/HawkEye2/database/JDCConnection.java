@@ -1,4 +1,4 @@
-package uk.co.oliwali.HawkEye.database;
+package com.github.foxtrek_64.HawkEye2.database;
 
 import java.sql.Array;
 import java.sql.Blob;

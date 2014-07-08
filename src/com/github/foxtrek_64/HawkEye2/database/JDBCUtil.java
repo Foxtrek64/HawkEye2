@@ -1,4 +1,4 @@
-package uk.co.oliwali.HawkEye.database;
+package com.github.foxtrek_64.HawkEye2.database;
 
 /****************************************************************
  * Licensed to the Apache Software Foundation (ASF) under one   *
@@ -24,7 +24,7 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.util.Locale;
 
-import uk.co.oliwali.HawkEye.util.Util;
+import com.github.foxtrek_64.HawkEye2.util.Util;
 
 /**
  * <p>Helper class for managing common JDBC tasks.</p>

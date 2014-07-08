@@ -1,7 +1,7 @@
-package uk.co.oliwali.HawkEye.commands;
+package com.github.foxtrek_64.HawkEye2.commands;
 
-import uk.co.oliwali.HawkEye.ToolManager;
-import uk.co.oliwali.HawkEye.util.Util;
+import com.github.foxtrek_64.HawkEye2.ToolManager;
+import com.github.foxtrek_64.HawkEye2.util.Util;
 
 public class ToolBindCommand extends BaseCommand {
 

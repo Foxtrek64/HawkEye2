@@ -1,4 +1,4 @@
-package uk.co.oliwali.HawkEye.listeners;
+package com.github.foxtrek_64.HawkEye2.listeners;
 
 import org.bukkit.GameMode;
 import org.bukkit.entity.Player;
@@ -9,9 +9,9 @@ import org.bukkit.event.block.Action;
 import org.bukkit.event.block.BlockPlaceEvent;
 import org.bukkit.event.player.PlayerInteractEvent;
 
-import uk.co.oliwali.HawkEye.SessionManager;
-import uk.co.oliwali.HawkEye.ToolManager;
-import uk.co.oliwali.HawkEye.util.Config;
+import com.github.foxtrek_64.HawkEye2.SessionManager;
+import com.github.foxtrek_64.HawkEye2.ToolManager;
+import com.github.foxtrek_64.HawkEye2.util.Config;
 
 /**
  * Block listener class for HawkEye Tools

@@ -1,4 +1,4 @@
-package uk.co.oliwali.HawkEye.listeners;
+package com.github.foxtrek_64.HawkEye2.listeners;
 
 import org.bukkit.Bukkit;
 import org.bukkit.Material;
@@ -12,14 +12,14 @@ import org.bukkit.event.player.PlayerInteractEvent;
 
 import com.sk89q.worldedit.bukkit.WorldEditPlugin;
 
-import uk.co.oliwali.HawkEye.DataType;
-import uk.co.oliwali.HawkEye.blocks.HawkBlock;
-import uk.co.oliwali.HawkEye.blocks.HawkBlockType;
-import uk.co.oliwali.HawkEye.blocks.SignBlock;
-import uk.co.oliwali.HawkEye.database.DataManager;
-import uk.co.oliwali.HawkEye.entry.BlockEntry;
-import uk.co.oliwali.HawkEye.entry.SignEntry;
-import uk.co.oliwali.HawkEye.util.Config;
+import com.github.foxtrek_64.HawkEye2.DataType;
+import com.github.foxtrek_64.HawkEye2.blocks.HawkBlock;
+import com.github.foxtrek_64.HawkEye2.blocks.HawkBlockType;
+import com.github.foxtrek_64.HawkEye2.blocks.SignBlock;
+import com.github.foxtrek_64.HawkEye2.database.DataManager;
+import com.github.foxtrek_64.HawkEye2.entry.BlockEntry;
+import com.github.foxtrek_64.HawkEye2.entry.SignEntry;
+import com.github.foxtrek_64.HawkEye2.util.Config;
 
 /**
  * WorldEdit listener

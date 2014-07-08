@@ -1,4 +1,4 @@
-package uk.co.oliwali.HawkEye.entry;
+package com.github.foxtrek_64.HawkEye2.entry;
 
 import java.sql.Timestamp;
 import java.util.Calendar;
@@ -11,12 +11,12 @@ import org.bukkit.entity.Player;
 import org.bukkit.inventory.InventoryHolder;
 import org.bukkit.plugin.java.JavaPlugin;
 
-import uk.co.oliwali.HawkEye.DataType;
-import uk.co.oliwali.HawkEye.database.DataManager;
-import uk.co.oliwali.HawkEye.undoData.UndoBlock;
-import uk.co.oliwali.HawkEye.undoData.UndoChest;
-import uk.co.oliwali.HawkEye.undoData.UndoSign;
-import uk.co.oliwali.HawkEye.util.Util;
+import com.github.foxtrek_64.HawkEye2.DataType;
+import com.github.foxtrek_64.HawkEye2.database.DataManager;
+import com.github.foxtrek_64.HawkEye2.undoData.UndoBlock;
+import com.github.foxtrek_64.HawkEye2.undoData.UndoChest;
+import com.github.foxtrek_64.HawkEye2.undoData.UndoSign;
+import com.github.foxtrek_64.HawkEye2.util.Util;
 
 /**
  * Represents a HawkEye database entry

@@ -1,4 +1,4 @@
-package uk.co.oliwali.HawkEye.commands;
+package com.github.foxtrek_64.HawkEye2.commands;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -6,10 +6,10 @@ import java.util.List;
 import org.bukkit.command.CommandSender;
 import org.bukkit.entity.Player;
 
-import uk.co.oliwali.HawkEye.HawkEye;
-import uk.co.oliwali.HawkEye.PlayerSession;
-import uk.co.oliwali.HawkEye.SessionManager;
-import uk.co.oliwali.HawkEye.util.Util;
+import com.github.foxtrek_64.HawkEye2.HawkEye;
+import com.github.foxtrek_64.HawkEye2.PlayerSession;
+import com.github.foxtrek_64.HawkEye2.SessionManager;
+import com.github.foxtrek_64.HawkEye2.util.Util;
 
 /**
  * Abstract class representing a command.

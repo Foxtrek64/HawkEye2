@@ -3,7 +3,7 @@ package com.github.foxtrek_64.HawkEye2.blocks;
 import org.bukkit.block.Block;
 import org.bukkit.entity.Player;
 
-import uk.co.oliwali.HawkEye.DataType;
+import com.github.foxtrek_64.HawkEye2.DataType;
 
 public class TopBlock implements HawkBlock {
 

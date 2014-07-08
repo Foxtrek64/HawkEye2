@@ -1,10 +1,10 @@
-package uk.co.oliwali.HawkEye.commands;
+package com.github.foxtrek_64.HawkEye2.commands;
 
-import uk.co.oliwali.HawkEye.SearchParser;
-import uk.co.oliwali.HawkEye.callbacks.DeleteCallback;
-import uk.co.oliwali.HawkEye.database.SearchQuery;
-import uk.co.oliwali.HawkEye.database.SearchQuery.SearchDir;
-import uk.co.oliwali.HawkEye.util.Util;
+import com.github.foxtrek_64.HawkEye2.SearchParser;
+import com.github.foxtrek_64.HawkEye2.callbacks.DeleteCallback;
+import com.github.foxtrek_64.HawkEye2.database.SearchQuery;
+import com.github.foxtrek_64.HawkEye2.database.SearchQuery.SearchDir;
+import com.github.foxtrek_64.HawkEye2.util.Util;
 
 public class DeleteCommand extends BaseCommand {
 

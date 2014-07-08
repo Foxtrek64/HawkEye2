@@ -1,4 +1,4 @@
-package uk.co.oliwali.HawkEye.undoData;
+package com.github.foxtrek_64.HawkEye2.undoData;
 
 import org.bukkit.block.BlockState;
 import org.bukkit.block.Sign;

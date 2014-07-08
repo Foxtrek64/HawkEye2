@@ -1,4 +1,4 @@
-package uk.co.oliwali.HawkEye.entry;
+package com.github.foxtrek_64.HawkEye2.entry;
 
 import java.sql.Timestamp;
 
@@ -8,8 +8,8 @@ import org.bukkit.block.Block;
 import org.bukkit.block.BlockState;
 import org.bukkit.entity.Player;
 
-import uk.co.oliwali.HawkEye.DataType;
-import uk.co.oliwali.HawkEye.util.BlockUtil;
+import com.github.foxtrek_64.HawkEye2.DataType;
+import com.github.foxtrek_64.HawkEye2.util.BlockUtil;
 
 /**
  * Represents a block change entry - one block changing to another

@@ -5,7 +5,7 @@
  * This class provides the means to safetly and easily update a plugin, or check to see if it is updated using dev.bukkit.org
  */
 
-package uk.co.oliwali.HawkEye;
+package com.github.foxtrek_64.HawkEye2;
 
 
 import java.io.*;

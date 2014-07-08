@@ -1,4 +1,4 @@
-package uk.co.oliwali.HawkEye.util;
+package com.github.foxtrek_64.HawkEye2.util;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -6,7 +6,7 @@ import java.util.List;
 
 import org.bukkit.Material;
 import org.bukkit.configuration.Configuration;
-import uk.co.oliwali.HawkEye.HawkEye;
+import com.github.foxtrek_64.HawkEye2.HawkEye;
 
 /**
  * Configuration manager for HawkEye.

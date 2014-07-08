@@ -5,7 +5,7 @@ import org.bukkit.block.Block;
 import org.bukkit.block.BlockFace;
 import org.bukkit.entity.Player;
 
-import uk.co.oliwali.HawkEye.DataType;
+import com.github.foxtrek_64.HawkEye2.DataType;
 
 public class BedBlock implements HawkBlock {
 
@@ -18,7 +18,7 @@ public class BedBlock implements HawkBlock {
 		
 //		b.setTypeIdAndData(id, ((byte)data), false);
 		b.setType(configName);
-		int beddata = 0;
+//		int beddata = 0;
 //		Block bed = null;
 		
 

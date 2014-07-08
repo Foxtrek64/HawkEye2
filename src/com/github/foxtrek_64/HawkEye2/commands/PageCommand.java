@@ -1,7 +1,7 @@
-package uk.co.oliwali.HawkEye.commands;
+package com.github.foxtrek_64.HawkEye2.commands;
 
-import uk.co.oliwali.HawkEye.DisplayManager;
-import uk.co.oliwali.HawkEye.util.Util;
+import com.github.foxtrek_64.HawkEye2.DisplayManager;
+import com.github.foxtrek_64.HawkEye2.util.Util;
 
 /**
  * Displays a page from the player's previous search results

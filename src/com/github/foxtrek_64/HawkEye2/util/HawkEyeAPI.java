@@ -1,16 +1,16 @@
-package uk.co.oliwali.HawkEye.util;
+package com.github.foxtrek_64.HawkEye2.util;
 
 import org.bukkit.Location;
 import org.bukkit.entity.Player;
 import org.bukkit.plugin.java.JavaPlugin;
 
-import uk.co.oliwali.HawkEye.DataType;
-import uk.co.oliwali.HawkEye.SearchParser;
-import uk.co.oliwali.HawkEye.callbacks.BaseCallback;
-import uk.co.oliwali.HawkEye.database.DataManager;
-import uk.co.oliwali.HawkEye.database.SearchQuery;
-import uk.co.oliwali.HawkEye.database.SearchQuery.SearchDir;
-import uk.co.oliwali.HawkEye.entry.DataEntry;
+import com.github.foxtrek_64.HawkEye2.DataType;
+import com.github.foxtrek_64.HawkEye2.SearchParser;
+import com.github.foxtrek_64.HawkEye2.callbacks.BaseCallback;
+import com.github.foxtrek_64.HawkEye2.database.DataManager;
+import com.github.foxtrek_64.HawkEye2.database.SearchQuery;
+import com.github.foxtrek_64.HawkEye2.database.SearchQuery.SearchDir;
+import com.github.foxtrek_64.HawkEye2.entry.DataEntry;
 
 /**
  * API for other plugins.

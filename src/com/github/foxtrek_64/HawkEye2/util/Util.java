@@ -1,4 +1,4 @@
-package uk.co.oliwali.HawkEye.util;
+package com.github.foxtrek_64.HawkEye2.util;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;

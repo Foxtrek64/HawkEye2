@@ -1,7 +1,7 @@
-package uk.co.oliwali.HawkEye.commands;
+package com.github.foxtrek_64.HawkEye2.commands;
 
-import uk.co.oliwali.HawkEye.Undo;
-import uk.co.oliwali.HawkEye.util.Util;
+import com.github.foxtrek_64.HawkEye2.Undo;
+import com.github.foxtrek_64.HawkEye2.util.Util;
 
 /**
  * Reverses the previous {@link RollbackCommand}
